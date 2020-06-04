@@ -1,1 +1,3 @@
-
+Name:Rajesh
+Location:Hyderabad
+Skill Set:DevOp
